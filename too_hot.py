@@ -35,4 +35,12 @@ def run_tests():
 
 # Edit this code
 def thermostat(temp):
+    for (temp) in range >= 16:
+        print ("Too cold")
 
+    if (temp) in range <= 27:
+        print ("Too hot")
+
+    else:
+        print ("Acceptable")
+        
